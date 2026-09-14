@@ -1,9 +1,9 @@
-GARAGE TB — WEBSITE SIAP GITHUB PAGES
+GARAGE TB BENGKEL HELIKOPTER DAN TANK — WEBSITE SIAP GITHUB PAGES
 
 Perbaikan versi ini:
 - Desain lebih premium, metal/dark + biru.
 - Responsive untuk HP, tablet, desktop.
-- Logo GARAGE TB digunakan di header dan hero.
+- Logo GARAGE TB BENGKEL HELIKOPTER DAN TANK digunakan di header dan hero.
 - Menu mobile.
 - Layanan: Workshop & Engineering, Kendaraan Khusus, Maintenance, Service iPhone.
 - Galeri siap diisi foto.
